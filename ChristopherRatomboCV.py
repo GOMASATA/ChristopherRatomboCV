@@ -4,9 +4,9 @@ import streamlit as st
 st.set_page_config(page_title="Christopher Ratombo - Web CV", page_icon="💼", layout="wide")
 
 # --- HEADER ---
-    st.title("Christopher Ratombo")
-    st.write("📧 abazingeli8012@gmail.com | 📱 081 578 1035 | 📍 Tembisa, Gauteng")
-    st.markdown("**Customer Service & Technical Support Specialist | AI & Financial Markets Analyst**")
+st.title("Christopher Ratombo")
+st.write("📧 abazingeli8012@gmail.com | 📱 081 578 1035 | 📍 Tembisa, Gauteng")
+st.markdown("**Customer Service & Technical Support Specialist | AI & Financial Markets Analyst**")
 
 # --- PROFESSIONAL SUMMARY ---
 st.subheader("Professional Summarsy")
