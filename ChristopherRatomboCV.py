@@ -4,17 +4,12 @@ import streamlit as st
 st.set_page_config(page_title="Christopher Ratombo - Web CV", page_icon="💼", layout="wide")
 
 # --- HEADER ---
-col1, col2 = st.columns([1,3])
-with col1:
-    st.image("christopher.jpeg", width=200)  # replace with your uploaded photo filename
-with col2:
-    st.image(r"C:\Users\Cris\Pictures\christopher.jpeg", width=200)
     st.title("Christopher Ratombo")
     st.write("📧 abazingeli8012@gmail.com | 📱 081 578 1035 | 📍 Tembisa, Gauteng")
     st.markdown("**Customer Service & Technical Support Specialist | AI & Financial Markets Analyst**")
 
 # --- PROFESSIONAL SUMMARY ---
-st.subheader("Professional Summary")
+st.subheader("Professional Summarsy")
 st.write("""
 Customer service and technical support specialist with 15+ years of experience across telecommunications, financial services, and retail. 
 Proven track record in problem-solving, upselling, and workflow optimization. 
