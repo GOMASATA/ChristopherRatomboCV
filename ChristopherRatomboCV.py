@@ -9,7 +9,7 @@ st.write("📧 abazingeli8012@gmail.com | 📱 081 578 1035 | 📍 Tembisa, Gaut
 st.markdown("**Customer Service & Technical Support Specialist | AI & Financial Markets Analyst**")
 
 # --- PROFESSIONAL SUMMARY ---
-st.subheader("Professional Summarsy")
+st.subheader("Professional Summary")
 st.write("""
 Customer service and technical support specialist with 15+ years of experience across telecommunications, financial services, and retail. 
 Proven track record in problem-solving, upselling, and workflow optimization. 
@@ -64,3 +64,4 @@ st.write("""
 # --- FOOTER ---
 st.markdown("---")
 st.write("References available upon request.")
+st.write("*Website created and designed by Christopher Ratombo.*")
