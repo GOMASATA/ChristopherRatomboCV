@@ -64,3 +64,4 @@ st.write("""
 # --- FOOTER ---
 st.markdown("---")
 st.write("References available upon request.")
+st.write("*website designed and created by Christopher Ratombo*.")
